@@ -1,2 +1,10 @@
-/* Add CSS styling here */
-....
+head {border:purple solid;
+padding: 1%;}
+#imageone {float: left;
+align-items: center;
+}
+.content {display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+}
+h1{color: aqua;}
